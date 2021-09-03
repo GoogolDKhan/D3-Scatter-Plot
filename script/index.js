@@ -1,5 +1,3 @@
-var projectName = "scatter-plot";
-
 var url =
     "https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json";
 var margin = {
