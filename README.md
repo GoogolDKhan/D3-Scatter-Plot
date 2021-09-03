@@ -10,6 +10,6 @@
 
 ## Credit
 
-- This project is inspired by [FCC: D3 Scatter Plot](https://codepen.io/freeCodeCamp/full/bgpXyK)
+- This project is forked from [FCC: D3 Scatter Plot](https://codepen.io/freeCodeCamp/full/bgpXyK)
 
 - Dated : 17-06-2021
