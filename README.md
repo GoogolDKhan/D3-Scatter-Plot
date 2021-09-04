@@ -1,4 +1,4 @@
-# D3: Scatter Plot [![CodeFactor](https://www.codefactor.io/repository/github/googoldkhan/d3-scatter-plot/badge)](https://www.codefactor.io/repository/github/googoldkhan/d3-scatter-plot)
+# D3: Scatter Plot [![CodeFactor](https://www.codefactor.io/repository/github/googoldkhan/scatter-plot/badge)](https://www.codefactor.io/repository/github/googoldkhan/scatter-plot)
 
 - Doping in professional bicycle racing data visualization with a scatter plot using D3
 
